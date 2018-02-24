@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joel Speed</title>
-    <link>joelspeed.co.uk/</link>
+    <link>https://joelspeed.co.uk/</link>
     <description>Recent content on Joel Speed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>(c) Joel Speed 2018</copyright>
     
-	<atom:link href="joelspeed.co.uk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://joelspeed.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>joelspeed.co.uk/about/</link>
+      <link>https://joelspeed.co.uk/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>joelspeed.co.uk/about/</guid>
+      <guid>https://joelspeed.co.uk/about/</guid>
       <description>Currently working at Pusher as a Cloud Infrastructure Engineer. Before this I studied Mathematics at the University of Warwick.</description>
     </item>
     
