@@ -1,0 +1,80 @@
+@media only screen and (max-width: 48em) {
+  #post-index.feature .header-title {
+    height: 200px; }
+  #post-index .entry-image {
+    min-height: 200px; }
+    #post-index .entry-image img {
+      min-height: 200px; }
+}
+
+@media only screen and (max-width: 450px) {
+    #post-index .entry-image img {
+      object-fit: cover; }
+}
+
+
+/* ==========================================================================
+   Social Menu
+   ========================================================================== */
+
+.social-menuwrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 1000;
+  -webkit-perspective: 1000px;
+  -moz-perspective: 1000px;
+  perspective: 1000px;
+  -webkit-perspective-origin: 50% 200%;
+  -moz-perspective-origin: 50% 200%;
+  perspective-origin: 50% 200%;
+ }
+  @media only screen and (min-width: 48em) {
+    .social-menuwrapper {
+      position: fixed;
+      max-width: 360px;
+      top: 25px;
+      right: 25px; } }
+
+  .social-menuwrapper .social-menu li {
+    top: 0;
+    left: 0;
+    background: #222222;
+    border: none;
+    border-radius: 0 0 3px 3px;
+    width: 45px;
+    height: 48px;
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+    opacity: 0.6;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.4);
+    transition: 0.4s ease-in-out;
+    display: inline-block; }
+    .social-menuwrapper .social-menu li:last-child {
+      border-radius: 0 0 0 3px; }
+    @media only screen and (min-width: 48em) {
+      .social-menuwrapper .social-menu li,
+      .social-menuwrapper .social-menu li:last-child {
+        border-radius: 3px; } }
+
+    .social-menuwrapper .social-menu li:hover {
+      opacity: 1;}
+  .social-menuwrapper ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    transform-style: preserve-3d; }
+    .social-menuwrapper li a {
+      display: block;
+      position: relative;
+      padding: 5px 2px;
+      font-size: 32px;
+      font-size: 2rem;
+      line-height: 36px;
+      font-weight: 400;
+      color: #fff;
+      outline: none; }
