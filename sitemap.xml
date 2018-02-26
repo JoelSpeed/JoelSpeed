@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://joelspeed.co.uk/projects/</loc>
+    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://joelspeed.co.uk/about/</loc>
   </url>
   
@@ -13,6 +18,7 @@
   
   <url>
     <loc>https://joelspeed.co.uk/</loc>
+    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -7,9 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>(c) Joel Speed 2018</copyright>
+    <lastBuildDate>Mon, 26 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://joelspeed.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects</title>
+      <link>https://joelspeed.co.uk/projects/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelspeed.co.uk/projects/</guid>
+      <description>Kubernetes K8s Spot Rescheduler For use in Kubernetes clusters running on AWS Spot Instances. Moves Pods from On-Demand instances to Spot instances to allow the more expensive On-Demand instances to be scaled down by the cluster autoscaler.
+Read more on the repo.
+K8s Spot Termination Handler For use in Kubernetes clusters running on AWS Spot Instances. Watches for a termination notice and safely drains nodes when they are due to be terminated.</description>
+    </item>
     
     <item>
       <title>About me</title>
