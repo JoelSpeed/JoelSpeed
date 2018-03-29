@@ -5,44 +5,46 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>About me &#8211; Joel Speed</title>
-<meta name="description" content="">
+<title>Single Sign-On for Kubernetes: An Introduction &#8211; Joel Speed</title>
+<meta name="description" content="Investigating Single Sign On in Kubernetes">
 
     
 
+<meta name="keywords" content="kubernetes, oidc, authentication, sso, kubernete-sso, pusher">
 
 
 
-
-<meta name="twitter:title" content="About me">
-<meta name="twitter:description" content="My tech thoughts">
+<meta name="twitter:title" content="Single Sign-On for Kubernetes: An Introduction">
+<meta name="twitter:description" content="Investigating Single Sign On in Kubernetes">
 
 
     
     
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:image" content="https://joelspeed.co.uk/images/banner.jpg">
+        <meta name="twitter:image" content="https://joelspeed.co.uk/images/posts/kubernetes-SSO/SignInWith.jpg">
     
 
 
 
 <meta property="og:type" content="article">
-<meta property="og:title" content="About me">
-<meta property="og:description" content="My tech thoughts">
-<meta property="og:url" content="https://joelspeed.co.uk/about/">
+<meta property="og:title" content="Single Sign-On for Kubernetes: An Introduction">
+<meta property="og:description" content="Investigating Single Sign On in Kubernetes">
+<meta property="og:url" content="https://joelspeed.co.uk/posts/single-sign-on-for-kubernetes-an-introduction/">
 <meta property="og:site_name" content="Joel Speed">
 
 
     
-    <meta property="og:image" content="https://joelspeed.co.uk/images/banner.jpg" />
+    <meta property="og:image" content="https://joelspeed.co.uk/images/posts/kubernetes-SSO/SignInWith.jpg" />
+
+
+  <meta property="og:updated_time" content="2018-03-09T00:00:00&#43;00:00"/>
 
 
 
 
 
 
-
-<link rel="canonical" href="https://joelspeed.co.uk/about/">
+<link rel="canonical" href="https://joelspeed.co.uk/posts/single-sign-on-for-kubernetes-an-introduction/">
 
 
 <meta name="HandheldFriendly" content="True">
@@ -92,7 +94,7 @@
 </nav>
 
 
-<body id="page" class="feature">
+<body id="post" class="feature">
 <nav id="dl-menu" class="dl-menuwrapper" role="navigation" style="display:inline-block">
 	<button class="dl-trigger">Open Menu</button>
 	<ul class="dl-menu">
@@ -148,7 +150,7 @@
 
 	
     <div class="entry-image">
-      <img src="/images/banner.jpg" alt="About me">
+      <img src="/images/posts/kubernetes-SSO/SignInWith.jpg" alt="Single Sign-On for Kubernetes: An Introduction">
     </div>
 </div>
   
@@ -158,8 +160,10 @@
     <header class="header-title">
       <div class="header-title-wrap">
         
-          <h1 class="entry-title"><a href="/about/" rel="bookmark" title="About me">About me</a></h1>
+          <h1 class="entry-title"><i class="fa fa-bookmark permalink"></i> <a href="https://thenewstack.io/kubernetes-single-sign-one-less-identity/">Single Sign-On for Kubernetes: An Introduction</a></h1>
         
+         
+        <h2><span class="entry-date date published"><time datetime="2018-03-09 00:00:00 &#43;0000 UTC">March 9, 2018</time></span></h2>
         
       <p class="entry-reading-time">
         <i class="fa fa-clock-o"></i>
@@ -168,17 +172,27 @@
       </div>
     </header>
     <div class="entry-content">
-      <p>Currently working at <a href="https://pusher.com">Pusher</a> as a Cloud Infrastructure Engineer.
-Before this I studied Mathematics at the University of Warwick.</p>
+      <p>The New Stack published an article in which I explore Single Sign-On in
+Kuberentes. I discuss the benefits and drawbacks of Open ID Connect and possible
+solutions to some of it&rsquo;s shortcomings.</p>
 
+<p></p>
+
+<div markdown="0">
+  <a href="https://thenewstack.io/kubernetes-single-sign-one-less-identity/" class="btn btn-info">
+  Read the full article
+  </a>
+</div>
       <footer class="entry-meta">
           
+        <span class="entry-tags"><a href="/tags/#kubernetes" title="Pages tagged kubernetes" class="tag"><span class="term">kubernetes</span></a><a href="/tags/#oidc" title="Pages tagged oidc" class="tag"><span class="term">oidc</span></a><a href="/tags/#authentication" title="Pages tagged authentication" class="tag"><span class="term">authentication</span></a><a href="/tags/#sso" title="Pages tagged sso" class="tag"><span class="term">sso</span></a><a href="/tags/#kubernete-sso" title="Pages tagged kubernete-sso" class="tag"><span class="term">kubernete-sso</span></a><a href="/tags/#pusher" title="Pages tagged pusher" class="tag"><span class="term">pusher</span></a></span>
+        
         
         <div class="social-share">
   <ul class="socialcount socialcount-small inline-list">
-    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fjoelspeed.co.uk%2fabout%2f" target="_blank" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
-    <li class="twitter"><a href="https://twitter.com/intent/tweet?text=https%3a%2f%2fjoelspeed.co.uk%2fabout%2f" target="_blank" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
-    <li class="googleplus"><a href="https://plus.google.com/share?url=https%3a%2f%2fjoelspeed.co.uk%2fabout%2f" target="_blank" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
+    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fjoelspeed.co.uk%2fposts%2fsingle-sign-on-for-kubernetes-an-introduction%2f" target="_blank" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
+    <li class="twitter"><a href="https://twitter.com/intent/tweet?text=https%3a%2f%2fjoelspeed.co.uk%2fposts%2fsingle-sign-on-for-kubernetes-an-introduction%2f" target="_blank" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
+    <li class="googleplus"><a href="https://plus.google.com/share?url=https%3a%2f%2fjoelspeed.co.uk%2fposts%2fsingle-sign-on-for-kubernetes-an-introduction%2f" target="_blank" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
   </ul>
 </div>
 

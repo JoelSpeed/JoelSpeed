@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joel Speed</title>
-    <link>https://joelspeed.co.uk/</link>
-    <description>Recent content on Joel Speed</description>
+    <title>Oidc on Joel Speed</title>
+    <link>https://joelspeed.co.uk/tags/oidc/</link>
+    <description>Recent content in Oidc on Joel Speed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>(c) Joel Speed 2018</copyright>
     <lastBuildDate>Fri, 23 Mar 2018 14:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://joelspeed.co.uk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://joelspeed.co.uk/tags/oidc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -51,26 +51,6 @@ Kuberentes. I discuss the benefits and drawbacks of Open ID Connect and possible
 solutions to some of it&amp;rsquo;s shortcomings.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://joelspeed.co.uk/projects/</link>
-      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://joelspeed.co.uk/projects/</guid>
-      <description>Kubernetes K8s Spot Rescheduler For use in Kubernetes clusters running on AWS Spot Instances. Moves Pods from On-Demand instances to Spot instances to allow the more expensive On-Demand instances to be scaled down by the cluster autoscaler.
-Read more on the repo.
-K8s Spot Termination Handler For use in Kubernetes clusters running on AWS Spot Instances. Watches for a termination notice and safely drains nodes when they are due to be terminated.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://joelspeed.co.uk/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://joelspeed.co.uk/about/</guid>
-      <description>Currently working at Pusher as a Cloud Infrastructure Engineer. Before this I studied Mathematics at the University of Warwick.</description>
     </item>
     
   </channel>
