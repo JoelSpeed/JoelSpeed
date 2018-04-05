@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autoscaling on Joel Speed</title>
+    <link>https://joelspeed.co.uk/tags/autoscaling/</link>
+    <description>Recent content in Autoscaling on Joel Speed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>(c) Joel Speed 2018</copyright>
+    <lastBuildDate>Fri, 30 Mar 2018 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://joelspeed.co.uk/tags/autoscaling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tips for running scalable workloads on Kubernetes</title>
+      <link>https://joelspeed.co.uk/posts/tips-for-running-scalable-workloads/</link>
+      <pubDate>Fri, 30 Mar 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://joelspeed.co.uk/posts/tips-for-running-scalable-workloads/</guid>
+      <description>&lt;p&gt;After integrating Spot Instances with &lt;a href=&#34;https://pusher.com&#34;&gt;Pusher&lt;/a&gt;&amp;rsquo;s Kubernetes Infrastructure,
+I share the lessons I learned about making Kubernetes workloads tolerant to node
+failures and as available as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

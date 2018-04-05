@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>(c) Joel Speed 2018</copyright>
-    <lastBuildDate>Fri, 23 Mar 2018 14:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Mar 2018 10:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://joelspeed.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,34 @@
     <item>
       <title>Authentication</title>
       <link>https://joelspeed.co.uk/tags/authentication/</link>
-      <pubDate>Fri, 23 Mar 2018 14:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Mar 2018 10:00:00 +0000</pubDate>
       
       <guid>https://joelspeed.co.uk/tags/authentication/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Autoscaling</title>
+      <link>https://joelspeed.co.uk/tags/autoscaling/</link>
+      <pubDate>Fri, 30 Mar 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://joelspeed.co.uk/tags/autoscaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Availability</title>
+      <link>https://joelspeed.co.uk/tags/availability/</link>
+      <pubDate>Fri, 30 Mar 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://joelspeed.co.uk/tags/availability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kubernete Sso</title>
       <link>https://joelspeed.co.uk/tags/kubernete-sso/</link>
-      <pubDate>Fri, 23 Mar 2018 14:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Mar 2018 10:00:00 +0000</pubDate>
       
       <guid>https://joelspeed.co.uk/tags/kubernete-sso/</guid>
       <description></description>
@@ -33,7 +51,7 @@
     <item>
       <title>Kubernetes</title>
       <link>https://joelspeed.co.uk/tags/kubernetes/</link>
-      <pubDate>Fri, 23 Mar 2018 14:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Mar 2018 12:00:00 +0000</pubDate>
       
       <guid>https://joelspeed.co.uk/tags/kubernetes/</guid>
       <description></description>
@@ -42,7 +60,7 @@
     <item>
       <title>Oidc</title>
       <link>https://joelspeed.co.uk/tags/oidc/</link>
-      <pubDate>Fri, 23 Mar 2018 14:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Mar 2018 10:00:00 +0000</pubDate>
       
       <guid>https://joelspeed.co.uk/tags/oidc/</guid>
       <description></description>
@@ -60,16 +78,34 @@
     <item>
       <title>Pusher</title>
       <link>https://joelspeed.co.uk/tags/pusher/</link>
-      <pubDate>Fri, 23 Mar 2018 14:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Mar 2018 12:00:00 +0000</pubDate>
       
       <guid>https://joelspeed.co.uk/tags/pusher/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Resilience</title>
+      <link>https://joelspeed.co.uk/tags/resilience/</link>
+      <pubDate>Fri, 30 Mar 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://joelspeed.co.uk/tags/resilience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Workloads</title>
+      <link>https://joelspeed.co.uk/tags/scalable-workloads/</link>
+      <pubDate>Fri, 30 Mar 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://joelspeed.co.uk/tags/scalable-workloads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sso</title>
       <link>https://joelspeed.co.uk/tags/sso/</link>
-      <pubDate>Fri, 23 Mar 2018 14:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Mar 2018 10:00:00 +0000</pubDate>
       
       <guid>https://joelspeed.co.uk/tags/sso/</guid>
       <description></description>
