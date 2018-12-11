@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Joel Speed</title>
+<title>Controllers &#8211; Joel Speed</title>
 <meta name="description" content="">
 
     
@@ -14,40 +14,31 @@
 
 
 
-<meta name="twitter:title" content="Joel Speed">
+<meta name="twitter:title" content="Controllers">
 <meta name="twitter:description" content="My tech thoughts">
 
-
-    
-    
-        <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:image" content="https://joelspeed.co.uk/images/techbanner.jpg">
-    
 
 
 
 <meta property="og:type" content="article">
-<meta property="og:title" content="Joel Speed">
+<meta property="og:title" content="Controllers">
 <meta property="og:description" content="My tech thoughts">
-<meta property="og:url" content="https://joelspeed.co.uk/">
+<meta property="og:url" content="https://joelspeed.co.uk/tags/controllers/">
 <meta property="og:site_name" content="Joel Speed">
 
 
-    
-    <meta property="og:image" content="https://joelspeed.co.uk/images/techbanner.jpg" />
 
-
-  <meta property="og:updated_time" content="2018-03-09T00:00:00&#43;00:00"/>
+  <meta property="og:updated_time" content="2018-12-05T00:00:00&#43;00:00"/>
 
 
 
 
 
 
-<link rel="canonical" href="https://joelspeed.co.uk/">
+<link rel="canonical" href="https://joelspeed.co.uk/tags/controllers/">
 
-  <link href="https://joelspeed.co.uk/index.xml" rel="alternate" type="application/rss+xml" title="Joel Speed" />
-  <link href="https://joelspeed.co.uk/index.xml" rel="feed" type="application/rss+xml" title="Joel Speed" />
+  <link href="https://joelspeed.co.uk/tags/controllers/index.xml" rel="alternate" type="application/rss+xml" title="Joel Speed" />
+  <link href="https://joelspeed.co.uk/tags/controllers/index.xml" rel="feed" type="application/rss+xml" title="Joel Speed" />
 
 
 <meta name="HandheldFriendly" content="True">
@@ -97,7 +88,7 @@
 </nav>
 
 
-<body id="post-index" class="feature">
+<body id="post-index" >
 <nav id="dl-menu" class="dl-menuwrapper" role="navigation" style="display:inline-block">
 	<button class="dl-trigger">Open Menu</button>
 	<ul class="dl-menu">
@@ -150,17 +141,14 @@
 
 <div class="entry-header">
   
-
-	
-    <div class="entry-image">
-      <img src="/images/techbanner.jpg" alt="Joel Speed">
-    </div>
-  
   <div class="header-title">
     <div class="header-title-wrap">
 		<h1><a href="/" title="Go to the homepage">Joel Speed</a></h1>
 	  <h2>
-            My tech thoughts
+            
+            
+              Controllers
+            
           </h2>
     </div>
   </div>
@@ -172,12 +160,12 @@
   <header>
     
       <div class="entry-image-index">
-		  <a href="/posts/single-sign-on-for-kubernetes-an-introduction/" title="Single Sign-On for Kubernetes: An Introduction"><img src="/images/posts/kubernetes-SSO/SignInWith.jpg" alt="Single Sign-On for Kubernetes: An Introduction"></a>
+		  <a href="/posts/solving-kubernetes-configuration-woes/" title="Solving Kubernetes configuration woes with a custom controller"><img src="/images/posts/configuration-woes/waves.png" alt="Solving Kubernetes configuration woes with a custom controller"></a>
       </div>
     
     <div class="entry-meta">
          
-		<span class="entry-date date published updated"><time datetime="2018-03-09 00:00:00 &#43;0000 UTC"><a href="/posts/single-sign-on-for-kubernetes-an-introduction/">Mar 9, 2018</a></time></span>
+		<span class="entry-date date published updated"><time datetime="2018-12-05 00:00:00 &#43;0000 UTC"><a href="/posts/solving-kubernetes-configuration-woes/">Dec 5, 2018</a></time></span>
         
       <span class="entry-reading-time">
         <i class="fa fa-clock-o"></i>
@@ -185,53 +173,33 @@
       </span>
     </div>
     
-      <h1 class="entry-title"><a href="/posts/single-sign-on-for-kubernetes-an-introduction/" class="permalink" rel="bookmark" title="Single Sign-On for Kubernetes: An Introduction"><i class="fa fa-bookmark"></i></a> <a href="https://thenewstack.io/kubernetes-single-sign-one-less-identity/">Single Sign-On for Kubernetes: An Introduction</a></h1>
+      <h1 class="entry-title"><a href="/posts/solving-kubernetes-configuration-woes/" class="permalink" rel="bookmark" title="Solving Kubernetes configuration woes with a custom controller"><i class="fa fa-bookmark"></i></a> <a href="https://thenewstack.io/solving-kubernetes-configuration-woes-with-a-custom-controller/">Solving Kubernetes configuration woes with a custom controller</a></h1>
     
   </header>
   <div class="entry-content">
-    <p>The New Stack published an article in which I explore Single Sign-On in
-Kuberentes. I discuss the benefits and drawbacks of Open ID Connect and possible
-solutions to some of it&rsquo;s shortcomings.</p>
+    <p>Ensuring that configuration is up to date is difficult with any infrastructure;
+With Kubernetes and the lack of versioned ConfigMaps, this problem is amplified.</p>
+
+<p>At Pusher, we have a number of applications that can&rsquo;t dynamically reload their
+configuration. Over the last two years, this has caused pain for our engineers
+and made deploying new configuration hard.</p>
+
+<p>In this post I explore our new project Wave and how we solved the problem of
+ensuring that our application&rsquo;s running configuration matches the desired
+configuration.</p>
 
 <p></p>
   </div>
   
      
      <div>
-       <a href="/posts/single-sign-on-for-kubernetes-an-introduction/">Read More…</a>
+       <a href="/posts/solving-kubernetes-configuration-woes/">Read More…</a>
      </div>
   
 </article>
 
 
 
-
-<div class="pagination">
-  <ul class="inline-list">
-	  
-    
-        <li><a href="/" class="btn">Previous</a></li>
-    
-
-	
-
-	
-	
-    
-	<li><a href="/">1</a></li>
-    
-	
-    
-	<li><strong class="current-page">2</strong></li>
-    
-	
-
-	
-
-	
-    
-  </ul>
-</div>
 
 
 </div>

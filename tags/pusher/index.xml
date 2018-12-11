@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>(c) Joel Speed 2018</copyright>
-    <lastBuildDate>Fri, 30 Mar 2018 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://joelspeed.co.uk/tags/pusher/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Solving Kubernetes configuration woes with a custom controller</title>
+      <link>https://joelspeed.co.uk/posts/solving-kubernetes-configuration-woes/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelspeed.co.uk/posts/solving-kubernetes-configuration-woes/</guid>
+      <description>&lt;p&gt;Ensuring that configuration is up to date is difficult with any infrastructure;
+With Kubernetes and the lack of versioned ConfigMaps, this problem is amplified.&lt;/p&gt;
+
+&lt;p&gt;At Pusher, we have a number of applications that can&amp;rsquo;t dynamically reload their
+configuration. Over the last two years, this has caused pain for our engineers
+and made deploying new configuration hard.&lt;/p&gt;
+
+&lt;p&gt;In this post I explore our new project Wave and how we solved the problem of
+ensuring that our application&amp;rsquo;s running configuration matches the desired
+configuration.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Tips for running scalable workloads on Kubernetes</title>
