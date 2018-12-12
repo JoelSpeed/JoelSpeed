@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Podcast on Joel Speed</title>
-    <link>https://joelspeed.co.uk/tags/podcast/</link>
-    <description>Recent content in Podcast on Joel Speed</description>
+    <title>Kubecon on Joel Speed</title>
+    <link>https://joelspeed.co.uk/tags/kubecon/</link>
+    <description>Recent content in Kubecon on Joel Speed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>(c) Joel Speed 2018</copyright>
     <lastBuildDate>Fri, 07 Dec 2018 13:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://joelspeed.co.uk/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://joelspeed.co.uk/tags/kubecon/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -24,21 +24,6 @@ to have a deeper discussion about the contributors work.&lt;/p&gt;
 
 &lt;p&gt;This week I discussed my experience with building custom controllers for
 Kubernetes and what I look forward to at KubeCon + CloudNativeCon North America 2018.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The New Stack Context: Kubernetes and Single Sign-On</title>
-      <link>https://joelspeed.co.uk/posts/new-stack-context-podcast-kubernetes-sso/</link>
-      <pubDate>Fri, 23 Mar 2018 14:00:00 +0000</pubDate>
-      
-      <guid>https://joelspeed.co.uk/posts/new-stack-context-podcast-kubernetes-sso/</guid>
-      <description>&lt;p&gt;The New Stack kindly invited me to join them for an episode of their Context
-podcast. Each week they discuss with popular topics with a contributor and get
-to have a deeper discussion about the contributors work.&lt;/p&gt;
-
-&lt;p&gt;This week I discussed my Single Sign-On for Kubernetes blog series.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

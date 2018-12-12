@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://joelspeed.co.uk/posts/new-stack-context-podcast-controllers-kubecon/</loc>
+    <lastmod>2018-12-07T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://joelspeed.co.uk/posts/solving-kubernetes-configuration-woes/</loc>
     <lastmod>2018-12-05T00:00:00+00:00</lastmod>
   </url>
@@ -66,13 +71,19 @@
   
   <url>
     <loc>https://joelspeed.co.uk/tags/controllers/</loc>
-    <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-07T13:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://joelspeed.co.uk/</loc>
-    <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-07T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://joelspeed.co.uk/tags/kubecon/</loc>
+    <lastmod>2018-12-07T13:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -84,7 +95,7 @@
   
   <url>
     <loc>https://joelspeed.co.uk/tags/kubernetes/</loc>
-    <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-07T13:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -96,19 +107,19 @@
   
   <url>
     <loc>https://joelspeed.co.uk/tags/podcast/</loc>
-    <lastmod>2018-03-23T14:00:00+00:00</lastmod>
+    <lastmod>2018-12-07T13:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://joelspeed.co.uk/posts/</loc>
-    <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-07T13:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://joelspeed.co.uk/tags/pusher/</loc>
-    <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-07T13:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

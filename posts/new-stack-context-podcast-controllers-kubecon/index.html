@@ -5,46 +5,46 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Projects &#8211; Joel Speed</title>
-<meta name="description" content="Collection of Projects I&#39;ve worked on.">
+<title>TNS Context: KubeCon Preview and Kubernetes Custom Controllers &#8211; Joel Speed</title>
+<meta name="description" content="Podcast discussing custom Kubernetes controllers with the New Stack">
 
     
 
+<meta name="keywords" content="kubernetes, controllers, kubecon, pusher, podcast">
 
 
 
-
-<meta name="twitter:title" content="Projects">
-<meta name="twitter:description" content="Collection of Projects I&#39;ve worked on.">
+<meta name="twitter:title" content="TNS Context: KubeCon Preview and Kubernetes Custom Controllers">
+<meta name="twitter:description" content="Podcast discussing custom Kubernetes controllers with the New Stack">
 
 
     
     
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:image" content="https://joelspeed.co.uk/images/techbanner.jpg">
+        <meta name="twitter:image" content="https://joelspeed.co.uk/images/posts/context-controllers-kubecon/seattle.jpg">
     
 
 
 
 <meta property="og:type" content="article">
-<meta property="og:title" content="Projects">
-<meta property="og:description" content="Collection of Projects I&#39;ve worked on.">
-<meta property="og:url" content="https://joelspeed.co.uk/projects/">
+<meta property="og:title" content="TNS Context: KubeCon Preview and Kubernetes Custom Controllers">
+<meta property="og:description" content="Podcast discussing custom Kubernetes controllers with the New Stack">
+<meta property="og:url" content="https://joelspeed.co.uk/posts/new-stack-context-podcast-controllers-kubecon/">
 <meta property="og:site_name" content="Joel Speed">
 
 
     
-    <meta property="og:image" content="https://joelspeed.co.uk/images/techbanner.jpg" />
+    <meta property="og:image" content="https://joelspeed.co.uk/images/posts/context-controllers-kubecon/seattle.jpg" />
 
 
-  <meta property="og:updated_time" content="2018-02-26T00:00:00&#43;00:00"/>
-
-
-
+  <meta property="og:updated_time" content="2018-12-07T13:00:00&#43;00:00"/>
 
 
 
-<link rel="canonical" href="https://joelspeed.co.uk/projects/">
+
+
+
+<link rel="canonical" href="https://joelspeed.co.uk/posts/new-stack-context-podcast-controllers-kubecon/">
 
 
 <meta name="HandheldFriendly" content="True">
@@ -94,7 +94,7 @@
 </nav>
 
 
-<body id="page" class="feature">
+<body id="post" class="feature">
 <nav id="dl-menu" class="dl-menuwrapper" role="navigation" style="display:inline-block">
 	<button class="dl-trigger">Open Menu</button>
 	<ul class="dl-menu">
@@ -150,7 +150,7 @@
 
 	
     <div class="entry-image">
-      <img src="/images/techbanner.jpg" alt="Projects">
+      <img src="/images/posts/context-controllers-kubecon/seattle.jpg" alt="TNS Context: KubeCon Preview and Kubernetes Custom Controllers">
     </div>
 </div>
   
@@ -160,8 +160,10 @@
     <header class="header-title">
       <div class="header-title-wrap">
         
-          <h1 class="entry-title"><a href="/projects/" rel="bookmark" title="Projects">Projects</a></h1>
+          <h1 class="entry-title"><i class="fa fa-bookmark permalink"></i> <a href="https://thenewstack.io/week-new-stack-kubernetes-single-sign/">TNS Context: KubeCon Preview and Kubernetes Custom Controllers</a></h1>
         
+         
+        <h2><span class="entry-date date published"><time datetime="2018-12-07 13:00:00 &#43;0000 UTC">December 7, 2018</time></span></h2>
         
       <p class="entry-reading-time">
         <i class="fa fa-clock-o"></i>
@@ -170,57 +172,30 @@
       </div>
     </header>
     <div class="entry-content">
-      
+      <p>The New Stack kindly invited me to join them for an episode of their Context
+podcast. Each week they discuss with popular topics with a contributor and get
+to have a deeper discussion about the contributors work.</p>
 
-<h1 id="kubernetes">Kubernetes</h1>
+<p>This week I discussed my experience with building custom controllers for
+Kubernetes and what I look forward to at KubeCon + CloudNativeCon North America 2018.</p>
 
-<h2 id="faros">Faros</h2>
+<p></p>
 
-<p>A custom resource based GitOps controller built using the Kubernetes community
-project <a href="https://github.com/kubernetes-sigs/kubebuilder">Kubebuilder</a>.</p>
-
-<p>Faros uses a CRD pointing to a Git repository, a Git reference and a subpath
-within the repository to check out the repository, scan for Kubernetes resource
-definitions and apply them to the cluster.</p>
-
-<p>Read more on the <a href="https://github.com/pusher/faros">repo</a>.</p>
-
-<h2 id="wave">Wave</h2>
-
-<p>A Kubernetes controller build using the Kubernetes community project
-<a href="https://github.com/kubernetes-sigs/kubebuilder">Kubebuilder</a>.</p>
-
-<p>Wave aids Kubernetes Deployments which can&rsquo;t dynamically reload configuration
-but mount config from Secrets and ConfigMaps.
-Wave ensures that config stays up to date and that Pods running out
-of date configuration are replaced.</p>
-
-<p>Read more on the <a href="https://github.com/pusher/wave">repo</a>.</p>
-
-<h2 id="k8s-spot-rescheduler">K8s Spot Rescheduler</h2>
-
-<p>For use in Kubernetes clusters running on AWS Spot Instances.
-Moves Pods from On-Demand instances to Spot instances to allow the more expensive
-On-Demand instances to be scaled down by the <a href="https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler">cluster autoscaler</a>.</p>
-
-<p>Read more on the <a href="https://github.com/pusher/k8s-spot-rescheduler">repo</a>.</p>
-
-<h2 id="k8s-spot-termination-handler">K8s Spot Termination Handler</h2>
-
-<p>For use in Kubernetes clusters running on AWS Spot Instances.
-Watches for a termination notice and safely drains nodes when they are due to be
-terminated.</p>
-
-<p>Read more on the <a href="https://github.com/pusher/k8s-spot-termination-handler">repo</a>.</p>
-
+<div markdown="0">
+  <a href="https://thenewstack.io/tns-context-kubecon-preview-and-kubernetes-custom-controllers/" class="btn btn-info">
+    Listen here
+  </a>
+</div>
       <footer class="entry-meta">
           
+        <span class="entry-tags"><a href="/tags/#kubernetes" title="Pages tagged kubernetes" class="tag"><span class="term">kubernetes</span></a><a href="/tags/#controllers" title="Pages tagged controllers" class="tag"><span class="term">controllers</span></a><a href="/tags/#kubecon" title="Pages tagged kubecon" class="tag"><span class="term">kubecon</span></a><a href="/tags/#pusher" title="Pages tagged pusher" class="tag"><span class="term">pusher</span></a><a href="/tags/#podcast" title="Pages tagged podcast" class="tag"><span class="term">podcast</span></a></span>
+        
         
         <div class="social-share">
   <ul class="socialcount socialcount-small inline-list">
-    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fjoelspeed.co.uk%2fprojects%2f" target="_blank" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
-    <li class="twitter"><a href="https://twitter.com/intent/tweet?text=https%3a%2f%2fjoelspeed.co.uk%2fprojects%2f" target="_blank" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
-    <li class="googleplus"><a href="https://plus.google.com/share?url=https%3a%2f%2fjoelspeed.co.uk%2fprojects%2f" target="_blank" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
+    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fjoelspeed.co.uk%2fposts%2fnew-stack-context-podcast-controllers-kubecon%2f" target="_blank" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
+    <li class="twitter"><a href="https://twitter.com/intent/tweet?text=https%3a%2f%2fjoelspeed.co.uk%2fposts%2fnew-stack-context-podcast-controllers-kubecon%2f" target="_blank" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
+    <li class="googleplus"><a href="https://plus.google.com/share?url=https%3a%2f%2fjoelspeed.co.uk%2fposts%2fnew-stack-context-podcast-controllers-kubecon%2f" target="_blank" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
   </ul>
 </div>
 
