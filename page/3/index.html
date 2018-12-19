@@ -5,46 +5,47 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Tips for running scalable workloads on Kubernetes &#8211; Joel Speed</title>
+<title>Joel Speed</title>
 <meta name="description" content="">
 
     
 
-<meta name="keywords" content="kubernetes, pusher, scalable-workloads, autoscaling, resilience, availability, article">
 
 
 
-<meta name="twitter:title" content="Tips for running scalable workloads on Kubernetes">
+
+<meta name="twitter:title" content="Joel Speed">
 <meta name="twitter:description" content="My tech thoughts">
 
 
     
     
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:image" content="https://joelspeed.co.uk/images/posts/tips-running-scalable-workloads/Puzzle.jpg">
+        <meta name="twitter:image" content="https://joelspeed.co.uk/images/techbanner.jpg">
     
 
 
 
 <meta property="og:type" content="article">
-<meta property="og:title" content="Tips for running scalable workloads on Kubernetes">
+<meta property="og:title" content="Joel Speed">
 <meta property="og:description" content="My tech thoughts">
-<meta property="og:url" content="https://joelspeed.co.uk/posts/tips-for-running-scalable-workloads/">
+<meta property="og:url" content="https://joelspeed.co.uk/">
 <meta property="og:site_name" content="Joel Speed">
 
 
     
-    <meta property="og:image" content="https://joelspeed.co.uk/images/posts/tips-running-scalable-workloads/Puzzle.jpg" />
-
-
-  <meta property="og:updated_time" content="2018-03-30T12:00:00&#43;00:00"/>
+    <meta property="og:image" content="https://joelspeed.co.uk/images/techbanner.jpg" />
 
 
 
 
 
 
-<link rel="canonical" href="https://joelspeed.co.uk/posts/tips-for-running-scalable-workloads/">
+
+<link rel="canonical" href="https://joelspeed.co.uk/">
+
+  <link href="https://joelspeed.co.uk/index.xml" rel="alternate" type="application/rss+xml" title="Joel Speed" />
+  <link href="https://joelspeed.co.uk/index.xml" rel="feed" type="application/rss+xml" title="Joel Speed" />
 
 
 <meta name="HandheldFriendly" content="True">
@@ -94,7 +95,7 @@
 </nav>
 
 
-<body id="post" class="feature">
+<body id="post-index" class="feature">
 <nav id="dl-menu" class="dl-menuwrapper" role="navigation" style="display:inline-block">
 	<button class="dl-trigger">Open Menu</button>
 	<ul class="dl-menu">
@@ -145,61 +146,61 @@
 	</ul>
 </nav>
 
- 
 <div class="entry-header">
+  
 
 	
     <div class="entry-image">
-      <img src="/images/posts/tips-running-scalable-workloads/Puzzle.jpg" alt="Tips for running scalable workloads on Kubernetes">
+      <img src="/images/techbanner.jpg" alt="Joel Speed">
     </div>
-</div>
   
+  <div class="header-title">
+    <div class="header-title-wrap">
+		<h1><a href="/" title="Go to the homepage">Joel Speed</a></h1>
+	  <h2>
+            My tech thoughts
+          </h2>
+    </div>
+  </div>
+</div>
 
 <div id="main" role="main">
-  <article class="hentry">
-    <header class="header-title">
-      <div class="header-title-wrap">
-        
-          <h1 class="entry-title"><i class="fa fa-bookmark permalink"></i> <a href="https://www.infoq.com/articles/tips-running-scalable-workloads-kubernetes">Tips for running scalable workloads on Kubernetes</a></h1>
-        
-         
-        <h2><span class="entry-date date published"><time datetime="2018-03-30 12:00:00 &#43;0000 UTC">March 30, 2018</time></span></h2>
-        
-      <p class="entry-reading-time">
-        <i class="fa fa-clock-o"></i>
-        Reading time ~1 minute
-    </p>
-      </div>
-    </header>
-    <div class="entry-content">
-      <p>After integrating Spot Instances with <a href="https://pusher.com">Pusher</a>&rsquo;s Kubernetes Infrastructure,
-I share the lessons I learned about making Kubernetes workloads tolerant to node
-failures and as available as possible.</p>
 
-<p></p>
 
-<div markdown="0">
-  <a href="https://www.infoq.com/articles/tips-running-scalable-workloads-kubernetes" class="btn btn-info">
-  Read the full article
-  </a>
-</div>
-      <footer class="entry-meta">
-          
-        <span class="entry-tags"><a href="/tags/#kubernetes" title="Pages tagged kubernetes" class="tag"><span class="term">kubernetes</span></a><a href="/tags/#pusher" title="Pages tagged pusher" class="tag"><span class="term">pusher</span></a><a href="/tags/#scalable-workloads" title="Pages tagged scalable-workloads" class="tag"><span class="term">scalable-workloads</span></a><a href="/tags/#autoscaling" title="Pages tagged autoscaling" class="tag"><span class="term">autoscaling</span></a><a href="/tags/#resilience" title="Pages tagged resilience" class="tag"><span class="term">resilience</span></a><a href="/tags/#availability" title="Pages tagged availability" class="tag"><span class="term">availability</span></a><a href="/tags/#article" title="Pages tagged article" class="tag"><span class="term">article</span></a></span>
-        
-        
-        <div class="social-share">
-  <ul class="socialcount socialcount-small inline-list">
-    <li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fjoelspeed.co.uk%2fposts%2ftips-for-running-scalable-workloads%2f" target="_blank" title="Share on Facebook"><span class="count"><i class="fa fa-facebook-square"></i> Like</span></a></li>
-    <li class="twitter"><a href="https://twitter.com/intent/tweet?text=https%3a%2f%2fjoelspeed.co.uk%2fposts%2ftips-for-running-scalable-workloads%2f" target="_blank" title="Share on Twitter"><span class="count"><i class="fa fa-twitter-square"></i> Tweet</span></a></li>
-    <li class="googleplus"><a href="https://plus.google.com/share?url=https%3a%2f%2fjoelspeed.co.uk%2fposts%2ftips-for-running-scalable-workloads%2f" target="_blank" title="Share on Google Plus"><span class="count"><i class="fa fa-google-plus-square"></i> +1</span></a></li>
+
+
+<div class="pagination">
+  <ul class="inline-list">
+	  
+    
+        <li><a href="/page/2/" class="btn">Previous</a></li>
+    
+
+	
+
+	
+	
+    
+	<li><a href="/">1</a></li>
+    
+	
+    
+	<li><a href="/page/2/">2</a></li>
+    
+	
+    
+	<li><strong class="current-page">3</strong></li>
+    
+	
+
+	
+
+	
+    
   </ul>
 </div>
 
-      </footer>
-    </div>
-    
-  </article>
+
 </div>
 
 <div class="footer-wrapper">

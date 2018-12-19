@@ -7,10 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>(c) Joel Speed 2018</copyright>
-    <lastBuildDate>Fri, 30 Mar 2018 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://joelspeed.co.uk/tags/kubernete-sso/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KubeCon: Single Sign-On for Kubernetes</title>
+      <link>https://joelspeed.co.uk/posts/kubecon-single-sign-on-for-kubernetes/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelspeed.co.uk/posts/kubecon-single-sign-on-for-kubernetes/</guid>
+      <description>&lt;p&gt;I flew out to KubeCon + CloudNativeCon North America 2018 in December to give
+a talk on Single Sign-On for Kubernetes.&lt;/p&gt;
+
+&lt;p&gt;This talk was inspired by three articles that I originaly wrote for The New Stack.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Single Sign-On for Kubernetes: The Dashboard Experience</title>
