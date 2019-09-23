@@ -33,6 +33,20 @@ configuration.&lt;/p&gt;
     </item>
     
     <item>
+      <title>The power of the developer community</title>
+      <link>https://joelspeed.co.uk/posts/power-of-the-developer-community/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelspeed.co.uk/posts/power-of-the-developer-community/</guid>
+      <description>&lt;p&gt;Over the past year, I&amp;rsquo;ve been trying to contribute more to the developer
+community.
+In this post I explain why I&amp;rsquo;ve been so motivated to contribute and why I think
+it&amp;rsquo;s important that you should get involved too.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Tips for running scalable workloads on Kubernetes</title>
       <link>https://joelspeed.co.uk/posts/tips-for-running-scalable-workloads/</link>
       <pubDate>Fri, 30 Mar 2018 12:00:00 +0000</pubDate>
@@ -79,7 +93,7 @@ engineers a Single Sign-On experience for kubectl.&lt;/p&gt;
       <guid>https://joelspeed.co.uk/posts/single-sign-on-for-kubernetes-an-introduction/</guid>
       <description>&lt;p&gt;The New Stack published an article in which I explore Single Sign-On in
 Kuberentes. I discuss the benefits and drawbacks of Open ID Connect and possible
-solutions to some of it&amp;rsquo;s shortcomings.&lt;/p&gt;
+solutions to some of its shortcomings.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

@@ -49,11 +49,29 @@
     </item>
     
     <item>
+      <title>Community</title>
+      <link>https://joelspeed.co.uk/tags/community/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelspeed.co.uk/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Controllers</title>
       <link>https://joelspeed.co.uk/tags/controllers/</link>
-      <pubDate>Fri, 07 Dec 2018 13:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://joelspeed.co.uk/tags/controllers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developers</title>
+      <link>https://joelspeed.co.uk/tags/developers/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelspeed.co.uk/tags/developers/</guid>
       <description></description>
     </item>
     
@@ -78,7 +96,7 @@
     <item>
       <title>Kubernetes</title>
       <link>https://joelspeed.co.uk/tags/kubernetes/</link>
-      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://joelspeed.co.uk/tags/kubernetes/</guid>
       <description></description>
@@ -94,6 +112,15 @@
     </item>
     
     <item>
+      <title>Open Source</title>
+      <link>https://joelspeed.co.uk/tags/open-source/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelspeed.co.uk/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Podcast</title>
       <link>https://joelspeed.co.uk/tags/podcast/</link>
       <pubDate>Fri, 07 Dec 2018 13:00:00 +0000</pubDate>
@@ -105,7 +132,7 @@
     <item>
       <title>Pusher</title>
       <link>https://joelspeed.co.uk/tags/pusher/</link>
-      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://joelspeed.co.uk/tags/pusher/</guid>
       <description></description>
@@ -141,7 +168,7 @@
     <item>
       <title>Talk</title>
       <link>https://joelspeed.co.uk/tags/talk/</link>
-      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://joelspeed.co.uk/tags/talk/</guid>
       <description></description>

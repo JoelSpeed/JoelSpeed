@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>(c) Joel Speed 2018</copyright>
-    <lastBuildDate>Thu, 13 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://joelspeed.co.uk/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,6 +23,21 @@ This blog is where I collate all of my blog posts, talk recordings and podcasts 
     </item>
     
     <item>
+      <title>Oh Sh*t! The Config Changed!</title>
+      <link>https://joelspeed.co.uk/posts/kubecon-oh-shit-the-config-changed/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelspeed.co.uk/posts/kubecon-oh-shit-the-config-changed/</guid>
+      <description>&lt;p&gt;I flew out to KubeCon + CloudNativeCon Europe 2019 in May to give
+a lightning talk about &lt;a href=&#34;https://github.com/pusher/wave&#34;&gt;Wave&lt;/a&gt;, an open source &lt;a href=&#34;https://pusher.com&#34;&gt;Pusher&lt;/a&gt; project.&lt;/p&gt;
+
+&lt;p&gt;This talk explains the origins of &lt;a href=&#34;https://github.com/pusher/wave&#34;&gt;Wave&lt;/a&gt;, the problem we had at
+&lt;a href=&#34;https://pusher.com&#34;&gt;Pusher&lt;/a&gt; and how &lt;a href=&#34;https://github.com/pusher/wave&#34;&gt;Wave&lt;/a&gt; solves the problem.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>KubeCon: Single Sign-On for Kubernetes</title>
       <link>https://joelspeed.co.uk/posts/kubecon-single-sign-on-for-kubernetes/</link>
       <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
@@ -31,7 +46,7 @@ This blog is where I collate all of my blog posts, talk recordings and podcasts 
       <description>&lt;p&gt;I flew out to KubeCon + CloudNativeCon North America 2018 in December to give
 a talk on Single Sign-On for Kubernetes.&lt;/p&gt;
 
-&lt;p&gt;This talk was inspired by three articles that I originaly wrote for The New Stack.&lt;/p&gt;
+&lt;p&gt;This talk was inspired by three articles that I originally wrote for The New Stack.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -68,6 +83,20 @@ and made deploying new configuration hard.&lt;/p&gt;
 &lt;p&gt;In this post I explore our new project Wave and how we solved the problem of
 ensuring that our application&amp;rsquo;s running configuration matches the desired
 configuration.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The power of the developer community</title>
+      <link>https://joelspeed.co.uk/posts/power-of-the-developer-community/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelspeed.co.uk/posts/power-of-the-developer-community/</guid>
+      <description>&lt;p&gt;Over the past year, I&amp;rsquo;ve been trying to contribute more to the developer
+community.
+In this post I explain why I&amp;rsquo;ve been so motivated to contribute and why I think
+it&amp;rsquo;s important that you should get involved too.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -134,7 +163,7 @@ engineers a Single Sign-On experience for kubectl.&lt;/p&gt;
       <guid>https://joelspeed.co.uk/posts/single-sign-on-for-kubernetes-an-introduction/</guid>
       <description>&lt;p&gt;The New Stack published an article in which I explore Single Sign-On in
 Kuberentes. I discuss the benefits and drawbacks of Open ID Connect and possible
-solutions to some of it&amp;rsquo;s shortcomings.&lt;/p&gt;
+solutions to some of its shortcomings.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

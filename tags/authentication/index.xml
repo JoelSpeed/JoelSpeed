@@ -21,7 +21,7 @@
       <description>&lt;p&gt;I flew out to KubeCon + CloudNativeCon North America 2018 in December to give
 a talk on Single Sign-On for Kubernetes.&lt;/p&gt;
 
-&lt;p&gt;This talk was inspired by three articles that I originaly wrote for The New Stack.&lt;/p&gt;
+&lt;p&gt;This talk was inspired by three articles that I originally wrote for The New Stack.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -75,7 +75,7 @@ engineers a Single Sign-On experience for kubectl.&lt;/p&gt;
       <guid>https://joelspeed.co.uk/posts/single-sign-on-for-kubernetes-an-introduction/</guid>
       <description>&lt;p&gt;The New Stack published an article in which I explore Single Sign-On in
 Kuberentes. I discuss the benefits and drawbacks of Open ID Connect and possible
-solutions to some of it&amp;rsquo;s shortcomings.&lt;/p&gt;
+solutions to some of its shortcomings.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

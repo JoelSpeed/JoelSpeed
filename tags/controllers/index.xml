@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>(c) Joel Speed 2018</copyright>
-    <lastBuildDate>Fri, 07 Dec 2018 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://joelspeed.co.uk/tags/controllers/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Oh Sh*t! The Config Changed!</title>
+      <link>https://joelspeed.co.uk/posts/kubecon-oh-shit-the-config-changed/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://joelspeed.co.uk/posts/kubecon-oh-shit-the-config-changed/</guid>
+      <description>&lt;p&gt;I flew out to KubeCon + CloudNativeCon Europe 2019 in May to give
+a lightning talk about &lt;a href=&#34;https://github.com/pusher/wave&#34;&gt;Wave&lt;/a&gt;, an open source &lt;a href=&#34;https://pusher.com&#34;&gt;Pusher&lt;/a&gt; project.&lt;/p&gt;
+
+&lt;p&gt;This talk explains the origins of &lt;a href=&#34;https://github.com/pusher/wave&#34;&gt;Wave&lt;/a&gt;, the problem we had at
+&lt;a href=&#34;https://pusher.com&#34;&gt;Pusher&lt;/a&gt; and how &lt;a href=&#34;https://github.com/pusher/wave&#34;&gt;Wave&lt;/a&gt; solves the problem.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>TNS Context: KubeCon Preview and Kubernetes Custom Controllers</title>
