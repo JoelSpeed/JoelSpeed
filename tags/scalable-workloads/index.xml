@@ -1,29 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Scalable Workloads on Joel Speed</title>
-    <link>https://joelspeed.co.uk/tags/scalable-workloads/</link>
-    <description>Recent content in Scalable Workloads on Joel Speed</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>(c) Joel Speed 2018</copyright>
-    <lastBuildDate>Fri, 30 Mar 2018 12:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://joelspeed.co.uk/tags/scalable-workloads/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Tips for running scalable workloads on Kubernetes</title>
-      <link>https://joelspeed.co.uk/posts/tips-for-running-scalable-workloads/</link>
-      <pubDate>Fri, 30 Mar 2018 12:00:00 +0000</pubDate>
-      
-      <guid>https://joelspeed.co.uk/posts/tips-for-running-scalable-workloads/</guid>
-      <description>&lt;p&gt;After integrating Spot Instances with &lt;a href=&#34;https://pusher.com&#34;&gt;Pusher&lt;/a&gt;&amp;rsquo;s Kubernetes Infrastructure,
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>scalable-workloads on Joel Speed</title><link>https://joelspeed.co.uk/tags/scalable-workloads/</link><description>Recent content in scalable-workloads on Joel Speed</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Fri, 30 Mar 2018 12:00:00 +0000</lastBuildDate><atom:link href="https://joelspeed.co.uk/tags/scalable-workloads/index.xml" rel="self" type="application/rss+xml"/><item><title>Tips for running scalable workloads on Kubernetes</title><link>https://joelspeed.co.uk/p/tips-for-running-scalable-workloads-on-kubernetes/</link><pubDate>Fri, 30 Mar 2018 12:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/tips-for-running-scalable-workloads-on-kubernetes/</guid><description>&lt;img src="https://joelspeed.co.uk/p/tips-for-running-scalable-workloads-on-kubernetes/Puzzle.jpg" alt="Featured image of post Tips for running scalable workloads on Kubernetes" />&lt;p>After integrating Spot Instances with &lt;a class="link" href="https://pusher.com" target="_blank" rel="noopener"
+>Pusher&lt;/a>&amp;rsquo;s Kubernetes Infrastructure,
 I share the lessons I learned about making Kubernetes workloads tolerant to node
-failures and as available as possible.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+failures and as available as possible.&lt;/p>
+&lt;p>&lt;a class="link" href="https://www.infoq.com/articles/tips-running-scalable-workloads-kubernetes" target="_blank" rel="noopener"
+>Read the full article&lt;/a>&lt;/p></description></item></channel></rss>

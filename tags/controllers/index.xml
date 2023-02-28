@@ -1,67 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Controllers on Joel Speed</title>
-    <link>https://joelspeed.co.uk/tags/controllers/</link>
-    <description>Recent content in Controllers on Joel Speed</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>(c) Joel Speed 2018</copyright>
-    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://joelspeed.co.uk/tags/controllers/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Oh Sh*t! The Config Changed!</title>
-      <link>https://joelspeed.co.uk/posts/kubecon-oh-shit-the-config-changed/</link>
-      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://joelspeed.co.uk/posts/kubecon-oh-shit-the-config-changed/</guid>
-      <description>&lt;p&gt;I flew out to KubeCon + CloudNativeCon Europe 2019 in May to give
-a lightning talk about &lt;a href=&#34;https://github.com/pusher/wave&#34;&gt;Wave&lt;/a&gt;, an open source &lt;a href=&#34;https://pusher.com&#34;&gt;Pusher&lt;/a&gt; project.&lt;/p&gt;
-
-&lt;p&gt;This talk explains the origins of &lt;a href=&#34;https://github.com/pusher/wave&#34;&gt;Wave&lt;/a&gt;, the problem we had at
-&lt;a href=&#34;https://pusher.com&#34;&gt;Pusher&lt;/a&gt; and how &lt;a href=&#34;https://github.com/pusher/wave&#34;&gt;Wave&lt;/a&gt; solves the problem.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>TNS Context: KubeCon Preview and Kubernetes Custom Controllers</title>
-      <link>https://joelspeed.co.uk/posts/new-stack-context-podcast-controllers-kubecon/</link>
-      <pubDate>Fri, 07 Dec 2018 13:00:00 +0000</pubDate>
-      
-      <guid>https://joelspeed.co.uk/posts/new-stack-context-podcast-controllers-kubecon/</guid>
-      <description>&lt;p&gt;The New Stack kindly invited me to join them for an episode of their Context
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>controllers on Joel Speed</title><link>https://joelspeed.co.uk/tags/controllers/</link><description>Recent content in controllers on Joel Speed</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://joelspeed.co.uk/tags/controllers/index.xml" rel="self" type="application/rss+xml"/><item><title>Oh Sh*t! The Config Changed!</title><link>https://joelspeed.co.uk/p/oh-sht-the-config-changed/</link><pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/oh-sht-the-config-changed/</guid><description>&lt;img src="https://joelspeed.co.uk/p/oh-sht-the-config-changed/CloudNativeFlag.jpg" alt="Featured image of post Oh Sh*t! The Config Changed!" />&lt;p>I flew out to KubeCon + CloudNativeCon Europe 2019 in May to give
+a lightning talk about &lt;a class="link" href="https://github.com/pusher/wave" target="_blank" rel="noopener"
+>Wave&lt;/a>, an open source &lt;a class="link" href="https://pusher.com" target="_blank" rel="noopener"
+>Pusher&lt;/a> project.&lt;/p>
+&lt;p>This talk explains the origins of &lt;a class="link" href="https://github.com/pusher/wave" target="_blank" rel="noopener"
+>Wave&lt;/a>, the problem we had at
+&lt;a class="link" href="https://pusher.com" target="_blank" rel="noopener"
+>Pusher&lt;/a> and how &lt;a class="link" href="https://github.com/pusher/wave" target="_blank" rel="noopener"
+>Wave&lt;/a> solves the problem.&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/8P7-C44Gjj8"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div></description></item><item><title>TNS Context: KubeCon Preview and Kubernetes Custom Controllers</title><link>https://joelspeed.co.uk/p/tns-context-kubecon-preview-and-kubernetes-custom-controllers/</link><pubDate>Fri, 07 Dec 2018 13:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/tns-context-kubecon-preview-and-kubernetes-custom-controllers/</guid><description>&lt;img src="https://joelspeed.co.uk/p/tns-context-kubecon-preview-and-kubernetes-custom-controllers/seattle.jpg" alt="Featured image of post TNS Context: KubeCon Preview and Kubernetes Custom Controllers" />&lt;p>The New Stack kindly invited me to join them for an episode of their Context
 podcast. Each week they discuss with popular topics with a contributor and get
-to have a deeper discussion about the contributors work.&lt;/p&gt;
-
-&lt;p&gt;This week I discussed my experience with building custom controllers for
-Kubernetes and what I look forward to at KubeCon + CloudNativeCon North America 2018.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Solving Kubernetes configuration woes with a custom controller</title>
-      <link>https://joelspeed.co.uk/posts/solving-kubernetes-configuration-woes/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://joelspeed.co.uk/posts/solving-kubernetes-configuration-woes/</guid>
-      <description>&lt;p&gt;Ensuring that configuration is up to date is difficult with any infrastructure;
-With Kubernetes and the lack of versioned ConfigMaps, this problem is amplified.&lt;/p&gt;
-
-&lt;p&gt;At Pusher, we have a number of applications that can&amp;rsquo;t dynamically reload their
+to have a deeper discussion about the contributors work.&lt;/p>
+&lt;p>This week I discussed my experience with building custom controllers for
+Kubernetes and what I look forward to at KubeCon + CloudNativeCon North America 2018.&lt;/p>
+&lt;p>&lt;a class="link" href="https://thenewstack.io/tns-context-kubecon-preview-and-kubernetes-custom-controllers/" target="_blank" rel="noopener"
+>Listen here&lt;/a>&lt;/p></description></item><item><title>Solving Kubernetes configuration woes with a custom controller</title><link>https://joelspeed.co.uk/p/solving-kubernetes-configuration-woes-with-a-custom-controller/</link><pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/solving-kubernetes-configuration-woes-with-a-custom-controller/</guid><description>&lt;img src="https://joelspeed.co.uk/p/solving-kubernetes-configuration-woes-with-a-custom-controller/waves.png" alt="Featured image of post Solving Kubernetes configuration woes with a custom controller" />&lt;p>Ensuring that configuration is up to date is difficult with any infrastructure;
+With Kubernetes and the lack of versioned ConfigMaps, this problem is amplified.&lt;/p>
+&lt;p>At Pusher, we have a number of applications that can&amp;rsquo;t dynamically reload their
 configuration. Over the last two years, this has caused pain for our engineers
-and made deploying new configuration hard.&lt;/p&gt;
-
-&lt;p&gt;In this post I explore our new project Wave and how we solved the problem of
+and made deploying new configuration hard.&lt;/p>
+&lt;p>In this post I explore our new project Wave and how we solved the problem of
 ensuring that our application&amp;rsquo;s running configuration matches the desired
-configuration.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+configuration.&lt;/p>
+&lt;p>&lt;a class="link" href="https://thenewstack.io/solving-kubernetes-configuration-woes-with-a-custom-controller/" target="_blank" rel="noopener"
+>Read the full article&lt;/a>&lt;/p></description></item></channel></rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Joel Speed</title><link>https://joelspeed.co.uk/page/</link><description>Recent content in Pages on Joel Speed</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Sun, 30 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://joelspeed.co.uk/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Archives</title><link>https://joelspeed.co.uk/archives/</link><pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/archives/</guid><description/></item><item><title>Projects</title><link>https://joelspeed.co.uk/projects/</link><pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/projects/</guid><description>&lt;h1 id="kubernetes">Kubernetes&lt;/h1>
+&lt;h2 id="faros">Faros&lt;/h2>
+&lt;p>A custom resource based GitOps controller built using the Kubernetes community
+project &lt;a class="link" href="https://github.com/kubernetes-sigs/kubebuilder" target="_blank" rel="noopener"
+>Kubebuilder&lt;/a>.&lt;/p>
+&lt;p>Faros uses a CRD pointing to a Git repository, a Git reference and a subpath
+within the repository to check out the repository, scan for Kubernetes resource
+definitions and apply them to the cluster.&lt;/p>
+&lt;p>Read more on the &lt;a class="link" href="https://github.com/pusher/faros" target="_blank" rel="noopener"
+>repo&lt;/a>.&lt;/p>
+&lt;h2 id="wave">Wave&lt;/h2>
+&lt;p>A Kubernetes controller build using the Kubernetes community project
+&lt;a class="link" href="https://github.com/kubernetes-sigs/kubebuilder" target="_blank" rel="noopener"
+>Kubebuilder&lt;/a>.&lt;/p>
+&lt;p>Wave aids Kubernetes Deployments which can&amp;rsquo;t dynamically reload configuration
+but mount config from Secrets and ConfigMaps.
+Wave ensures that config stays up to date and that Pods running out
+of date configuration are replaced.&lt;/p>
+&lt;p>Read more on the &lt;a class="link" href="https://github.com/pusher/wave" target="_blank" rel="noopener"
+>repo&lt;/a>.&lt;/p>
+&lt;h2 id="k8s-spot-rescheduler">K8s Spot Rescheduler&lt;/h2>
+&lt;p>For use in Kubernetes clusters running on AWS Spot Instances.
+Moves Pods from On-Demand instances to Spot instances to allow the more expensive
+On-Demand instances to be scaled down by the &lt;a class="link" href="https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler" target="_blank" rel="noopener"
+>cluster autoscaler&lt;/a>.&lt;/p>
+&lt;p>Read more on the &lt;a class="link" href="https://github.com/pusher/k8s-spot-rescheduler" target="_blank" rel="noopener"
+>repo&lt;/a>.&lt;/p>
+&lt;h2 id="k8s-spot-termination-handler">K8s Spot Termination Handler&lt;/h2>
+&lt;p>For use in Kubernetes clusters running on AWS Spot Instances.
+Watches for a termination notice and safely drains nodes when they are due to be
+terminated.&lt;/p>
+&lt;p>Read more on the &lt;a class="link" href="https://github.com/pusher/k8s-spot-termination-handler" target="_blank" rel="noopener"
+>repo&lt;/a>.&lt;/p></description></item><item><title>About me</title><link>https://joelspeed.co.uk/about-me/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/about-me/</guid><description>&lt;img src="https://joelspeed.co.uk/about-me/banner.jpg" alt="Featured image of post About me" />&lt;p>I am a Principal Software Engineer at &lt;a class="link" href="https://redhat.com" target="_blank" rel="noopener"
+>Red Hat&lt;/a>,
+leading the OpenShift Cluster Infrastructure team.
+We focus on the integrations between OpenShift and the cloud,
+working on the Kubernetes Cloud Provider, OpenShiftMachine API and upstream Cluster API projects.&lt;/p>
+&lt;p>Previously I worked as a Cloud Infrastructure Engineer at &lt;a class="link" href="https://pusher.com" target="_blank" rel="noopener"
+>Pusher&lt;/a>,
+administering Kubernetes on a day to day basis.
+Currently focused on building extensions to Kubernetes in the form of custom
+resource controllers.&lt;/p>
+&lt;p>This blog is where I collate all of my blog posts, talk recordings and podcasts
+and give details about the &lt;a class="link" href="https://joelspeed.co.uk/projects" >projects&lt;/a> that I have been working on.&lt;/p></description></item><item><title>Search</title><link>https://joelspeed.co.uk/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/search/</guid><description/></item></channel></rss>

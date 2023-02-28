@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Joel Speed</title><link>https://joelspeed.co.uk/post/</link><description>Recent content in Posts on Joel Speed</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://joelspeed.co.uk/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Oh Sh*t! The Config Changed!</title><link>https://joelspeed.co.uk/p/oh-sht-the-config-changed/</link><pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/oh-sht-the-config-changed/</guid><description>&lt;img src="https://joelspeed.co.uk/p/oh-sht-the-config-changed/CloudNativeFlag.jpg" alt="Featured image of post Oh Sh*t! The Config Changed!" />&lt;p>I flew out to KubeCon + CloudNativeCon Europe 2019 in May to give
+a lightning talk about &lt;a class="link" href="https://github.com/pusher/wave" target="_blank" rel="noopener"
+>Wave&lt;/a>, an open source &lt;a class="link" href="https://pusher.com" target="_blank" rel="noopener"
+>Pusher&lt;/a> project.&lt;/p>
+&lt;p>This talk explains the origins of &lt;a class="link" href="https://github.com/pusher/wave" target="_blank" rel="noopener"
+>Wave&lt;/a>, the problem we had at
+&lt;a class="link" href="https://pusher.com" target="_blank" rel="noopener"
+>Pusher&lt;/a> and how &lt;a class="link" href="https://github.com/pusher/wave" target="_blank" rel="noopener"
+>Wave&lt;/a> solves the problem.&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/8P7-C44Gjj8"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div></description></item><item><title>KubeCon: Single Sign-On for Kubernetes</title><link>https://joelspeed.co.uk/p/kubecon-single-sign-on-for-kubernetes/</link><pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/kubecon-single-sign-on-for-kubernetes/</guid><description>&lt;img src="https://joelspeed.co.uk/p/kubecon-single-sign-on-for-kubernetes/joel-speaking.jpg" alt="Featured image of post KubeCon: Single Sign-On for Kubernetes" />&lt;p>I flew out to KubeCon + CloudNativeCon North America 2018 in December to give
+a talk on Single Sign-On for Kubernetes.&lt;/p>
+&lt;p>This talk was inspired by three articles that I originally wrote for The New Stack.&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/yaJnT6DNHHc"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;a class="link" href="KubernetesSSOSlides.pdf" >Slide deck&lt;/a>&lt;/p></description></item><item><title>TNS Context: KubeCon Preview and Kubernetes Custom Controllers</title><link>https://joelspeed.co.uk/p/tns-context-kubecon-preview-and-kubernetes-custom-controllers/</link><pubDate>Fri, 07 Dec 2018 13:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/tns-context-kubecon-preview-and-kubernetes-custom-controllers/</guid><description>&lt;img src="https://joelspeed.co.uk/p/tns-context-kubecon-preview-and-kubernetes-custom-controllers/seattle.jpg" alt="Featured image of post TNS Context: KubeCon Preview and Kubernetes Custom Controllers" />&lt;p>The New Stack kindly invited me to join them for an episode of their Context
+podcast. Each week they discuss with popular topics with a contributor and get
+to have a deeper discussion about the contributors work.&lt;/p>
+&lt;p>This week I discussed my experience with building custom controllers for
+Kubernetes and what I look forward to at KubeCon + CloudNativeCon North America 2018.&lt;/p>
+&lt;p>&lt;a class="link" href="https://thenewstack.io/tns-context-kubecon-preview-and-kubernetes-custom-controllers/" target="_blank" rel="noopener"
+>Listen here&lt;/a>&lt;/p></description></item><item><title>Solving Kubernetes configuration woes with a custom controller</title><link>https://joelspeed.co.uk/p/solving-kubernetes-configuration-woes-with-a-custom-controller/</link><pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/solving-kubernetes-configuration-woes-with-a-custom-controller/</guid><description>&lt;img src="https://joelspeed.co.uk/p/solving-kubernetes-configuration-woes-with-a-custom-controller/waves.png" alt="Featured image of post Solving Kubernetes configuration woes with a custom controller" />&lt;p>Ensuring that configuration is up to date is difficult with any infrastructure;
+With Kubernetes and the lack of versioned ConfigMaps, this problem is amplified.&lt;/p>
+&lt;p>At Pusher, we have a number of applications that can&amp;rsquo;t dynamically reload their
+configuration. Over the last two years, this has caused pain for our engineers
+and made deploying new configuration hard.&lt;/p>
+&lt;p>In this post I explore our new project Wave and how we solved the problem of
+ensuring that our application&amp;rsquo;s running configuration matches the desired
+configuration.&lt;/p>
+&lt;p>&lt;a class="link" href="https://thenewstack.io/solving-kubernetes-configuration-woes-with-a-custom-controller/" target="_blank" rel="noopener"
+>Read the full article&lt;/a>&lt;/p></description></item><item><title>The power of the developer community</title><link>https://joelspeed.co.uk/p/the-power-of-the-developer-community/</link><pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/the-power-of-the-developer-community/</guid><description>&lt;img src="https://joelspeed.co.uk/p/the-power-of-the-developer-community/community.png" alt="Featured image of post The power of the developer community" />&lt;p>Over the past year, I&amp;rsquo;ve been trying to contribute more to the developer
+community.
+In this post I explain why I&amp;rsquo;ve been so motivated to contribute and why I think
+it&amp;rsquo;s important that you should get involved too.&lt;/p>
+&lt;p>&lt;a class="link" href="https://medium.com/free-code-camp/the-power-of-the-developer-community-2b6e713fc9ae" target="_blank" rel="noopener"
+>Read the full article&lt;/a>&lt;/p></description></item><item><title>Tips for running scalable workloads on Kubernetes</title><link>https://joelspeed.co.uk/p/tips-for-running-scalable-workloads-on-kubernetes/</link><pubDate>Fri, 30 Mar 2018 12:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/tips-for-running-scalable-workloads-on-kubernetes/</guid><description>&lt;img src="https://joelspeed.co.uk/p/tips-for-running-scalable-workloads-on-kubernetes/Puzzle.jpg" alt="Featured image of post Tips for running scalable workloads on Kubernetes" />&lt;p>After integrating Spot Instances with &lt;a class="link" href="https://pusher.com" target="_blank" rel="noopener"
+>Pusher&lt;/a>&amp;rsquo;s Kubernetes Infrastructure,
+I share the lessons I learned about making Kubernetes workloads tolerant to node
+failures and as available as possible.&lt;/p>
+&lt;p>&lt;a class="link" href="https://www.infoq.com/articles/tips-running-scalable-workloads-kubernetes" target="_blank" rel="noopener"
+>Read the full article&lt;/a>&lt;/p></description></item><item><title>Single Sign-On for Kubernetes: The Dashboard Experience</title><link>https://joelspeed.co.uk/p/single-sign-on-for-kubernetes-the-dashboard-experience/</link><pubDate>Fri, 30 Mar 2018 10:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/single-sign-on-for-kubernetes-the-dashboard-experience/</guid><description>&lt;img src="https://joelspeed.co.uk/p/single-sign-on-for-kubernetes-the-dashboard-experience/DashboardLogin.jpg" alt="Featured image of post Single Sign-On for Kubernetes: The Dashboard Experience" />&lt;p>In the final post in my New Stack, Kubernetes SSO series; I discuss how
+to take advantage of an OAuth Proxy to enable Single Sign-On for the Kubernetes
+Dashboard.&lt;/p>
+&lt;p>&lt;a class="link" href="https://thenewstack.io/single-sign-on-for-kubernetes-dashboard-experience/" target="_blank" rel="noopener"
+>Read the full article&lt;/a>&lt;/p></description></item><item><title>The New Stack Context: Kubernetes and Single Sign-On</title><link>https://joelspeed.co.uk/p/the-new-stack-context-kubernetes-and-single-sign-on/</link><pubDate>Fri, 23 Mar 2018 14:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/the-new-stack-context-kubernetes-and-single-sign-on/</guid><description>&lt;img src="https://joelspeed.co.uk/p/the-new-stack-context-kubernetes-and-single-sign-on/ChatBuild.gif" alt="Featured image of post The New Stack Context: Kubernetes and Single Sign-On" />&lt;p>The New Stack kindly invited me to join them for an episode of their Context
+podcast. Each week they discuss with popular topics with a contributor and get
+to have a deeper discussion about the contributors work.&lt;/p>
+&lt;p>This week I discussed my Single Sign-On for Kubernetes blog series.&lt;/p>
+&lt;p>&lt;a class="link" href="https://thenewstack.io/week-new-stack-kubernetes-single-sign/" target="_blank" rel="noopener"
+>Listen here&lt;/a>&lt;/p></description></item><item><title>Single Sign-On for Kubernetes: The Command Line Experience</title><link>https://joelspeed.co.uk/p/single-sign-on-for-kubernetes-the-command-line-experience/</link><pubDate>Fri, 23 Mar 2018 03:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/single-sign-on-for-kubernetes-the-command-line-experience/</guid><description>&lt;img src="https://joelspeed.co.uk/p/single-sign-on-for-kubernetes-the-command-line-experience/CommandLineLogin.jpg" alt="Featured image of post Single Sign-On for Kubernetes: The Command Line Experience" />&lt;p>In the second post in my New Stack, Kubernetes SSO series; I discuss how
+to get started with OIDC and the application I designed to give Pusher
+engineers a Single Sign-On experience for kubectl.&lt;/p>
+&lt;p>&lt;a class="link" href="https://thenewstack.io/single-sign-kubernetes-command-line-experience/" target="_blank" rel="noopener"
+>Read the full article&lt;/a>&lt;/p></description></item><item><title>Single Sign-On for Kubernetes: An Introduction</title><link>https://joelspeed.co.uk/p/single-sign-on-for-kubernetes-an-introduction/</link><pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/single-sign-on-for-kubernetes-an-introduction/</guid><description>&lt;img src="https://joelspeed.co.uk/p/single-sign-on-for-kubernetes-an-introduction/SignInWith.jpg" alt="Featured image of post Single Sign-On for Kubernetes: An Introduction" />&lt;p>The New Stack published an article in which I explore Single Sign-On in
+Kuberentes. I discuss the benefits and drawbacks of Open ID Connect and possible
+solutions to some of its shortcomings.&lt;/p>
+&lt;p>&lt;a class="link" href="https://thenewstack.io/kubernetes-single-sign-one-less-identity/" target="_blank" rel="noopener"
+>Read the full article&lt;/a>&lt;/p></description></item></channel></rss>

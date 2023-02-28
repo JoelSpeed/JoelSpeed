@@ -1,84 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kubernete Sso on Joel Speed</title>
-    <link>https://joelspeed.co.uk/tags/kubernete-sso/</link>
-    <description>Recent content in Kubernete Sso on Joel Speed</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>(c) Joel Speed 2018</copyright>
-    <lastBuildDate>Thu, 13 Dec 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://joelspeed.co.uk/tags/kubernete-sso/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>KubeCon: Single Sign-On for Kubernetes</title>
-      <link>https://joelspeed.co.uk/posts/kubecon-single-sign-on-for-kubernetes/</link>
-      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://joelspeed.co.uk/posts/kubecon-single-sign-on-for-kubernetes/</guid>
-      <description>&lt;p&gt;I flew out to KubeCon + CloudNativeCon North America 2018 in December to give
-a talk on Single Sign-On for Kubernetes.&lt;/p&gt;
-
-&lt;p&gt;This talk was inspired by three articles that I originally wrote for The New Stack.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Single Sign-On for Kubernetes: The Dashboard Experience</title>
-      <link>https://joelspeed.co.uk/posts/single-sign-on-for-kubernetes-dashboard-experience/</link>
-      <pubDate>Fri, 30 Mar 2018 10:00:00 +0000</pubDate>
-      
-      <guid>https://joelspeed.co.uk/posts/single-sign-on-for-kubernetes-dashboard-experience/</guid>
-      <description>&lt;p&gt;In the final post in my New Stack, Kubernetes SSO series; I discuss how
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>kubernete-sso on Joel Speed</title><link>https://joelspeed.co.uk/tags/kubernete-sso/</link><description>Recent content in kubernete-sso on Joel Speed</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Thu, 13 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://joelspeed.co.uk/tags/kubernete-sso/index.xml" rel="self" type="application/rss+xml"/><item><title>KubeCon: Single Sign-On for Kubernetes</title><link>https://joelspeed.co.uk/p/kubecon-single-sign-on-for-kubernetes/</link><pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/kubecon-single-sign-on-for-kubernetes/</guid><description>&lt;img src="https://joelspeed.co.uk/p/kubecon-single-sign-on-for-kubernetes/joel-speaking.jpg" alt="Featured image of post KubeCon: Single Sign-On for Kubernetes" />&lt;p>I flew out to KubeCon + CloudNativeCon North America 2018 in December to give
+a talk on Single Sign-On for Kubernetes.&lt;/p>
+&lt;p>This talk was inspired by three articles that I originally wrote for The New Stack.&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/yaJnT6DNHHc"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;p>&lt;a class="link" href="KubernetesSSOSlides.pdf" >Slide deck&lt;/a>&lt;/p></description></item><item><title>Single Sign-On for Kubernetes: The Dashboard Experience</title><link>https://joelspeed.co.uk/p/single-sign-on-for-kubernetes-the-dashboard-experience/</link><pubDate>Fri, 30 Mar 2018 10:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/single-sign-on-for-kubernetes-the-dashboard-experience/</guid><description>&lt;img src="https://joelspeed.co.uk/p/single-sign-on-for-kubernetes-the-dashboard-experience/DashboardLogin.jpg" alt="Featured image of post Single Sign-On for Kubernetes: The Dashboard Experience" />&lt;p>In the final post in my New Stack, Kubernetes SSO series; I discuss how
 to take advantage of an OAuth Proxy to enable Single Sign-On for the Kubernetes
-Dashboard.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The New Stack Context: Kubernetes and Single Sign-On</title>
-      <link>https://joelspeed.co.uk/posts/new-stack-context-podcast-kubernetes-sso/</link>
-      <pubDate>Fri, 23 Mar 2018 14:00:00 +0000</pubDate>
-      
-      <guid>https://joelspeed.co.uk/posts/new-stack-context-podcast-kubernetes-sso/</guid>
-      <description>&lt;p&gt;The New Stack kindly invited me to join them for an episode of their Context
+Dashboard.&lt;/p>
+&lt;p>&lt;a class="link" href="https://thenewstack.io/single-sign-on-for-kubernetes-dashboard-experience/" target="_blank" rel="noopener"
+>Read the full article&lt;/a>&lt;/p></description></item><item><title>The New Stack Context: Kubernetes and Single Sign-On</title><link>https://joelspeed.co.uk/p/the-new-stack-context-kubernetes-and-single-sign-on/</link><pubDate>Fri, 23 Mar 2018 14:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/the-new-stack-context-kubernetes-and-single-sign-on/</guid><description>&lt;img src="https://joelspeed.co.uk/p/the-new-stack-context-kubernetes-and-single-sign-on/ChatBuild.gif" alt="Featured image of post The New Stack Context: Kubernetes and Single Sign-On" />&lt;p>The New Stack kindly invited me to join them for an episode of their Context
 podcast. Each week they discuss with popular topics with a contributor and get
-to have a deeper discussion about the contributors work.&lt;/p&gt;
-
-&lt;p&gt;This week I discussed my Single Sign-On for Kubernetes blog series.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Single Sign-On for Kubernetes: The Command Line Experience</title>
-      <link>https://joelspeed.co.uk/posts/single-sign-on-for-kubernetes-command-line-experience/</link>
-      <pubDate>Fri, 23 Mar 2018 03:00:00 +0000</pubDate>
-      
-      <guid>https://joelspeed.co.uk/posts/single-sign-on-for-kubernetes-command-line-experience/</guid>
-      <description>&lt;p&gt;In the second post in my New Stack, Kubernetes SSO series; I discuss how
+to have a deeper discussion about the contributors work.&lt;/p>
+&lt;p>This week I discussed my Single Sign-On for Kubernetes blog series.&lt;/p>
+&lt;p>&lt;a class="link" href="https://thenewstack.io/week-new-stack-kubernetes-single-sign/" target="_blank" rel="noopener"
+>Listen here&lt;/a>&lt;/p></description></item><item><title>Single Sign-On for Kubernetes: The Command Line Experience</title><link>https://joelspeed.co.uk/p/single-sign-on-for-kubernetes-the-command-line-experience/</link><pubDate>Fri, 23 Mar 2018 03:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/single-sign-on-for-kubernetes-the-command-line-experience/</guid><description>&lt;img src="https://joelspeed.co.uk/p/single-sign-on-for-kubernetes-the-command-line-experience/CommandLineLogin.jpg" alt="Featured image of post Single Sign-On for Kubernetes: The Command Line Experience" />&lt;p>In the second post in my New Stack, Kubernetes SSO series; I discuss how
 to get started with OIDC and the application I designed to give Pusher
-engineers a Single Sign-On experience for kubectl.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Single Sign-On for Kubernetes: An Introduction</title>
-      <link>https://joelspeed.co.uk/posts/single-sign-on-for-kubernetes-an-introduction/</link>
-      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://joelspeed.co.uk/posts/single-sign-on-for-kubernetes-an-introduction/</guid>
-      <description>&lt;p&gt;The New Stack published an article in which I explore Single Sign-On in
+engineers a Single Sign-On experience for kubectl.&lt;/p>
+&lt;p>&lt;a class="link" href="https://thenewstack.io/single-sign-kubernetes-command-line-experience/" target="_blank" rel="noopener"
+>Read the full article&lt;/a>&lt;/p></description></item><item><title>Single Sign-On for Kubernetes: An Introduction</title><link>https://joelspeed.co.uk/p/single-sign-on-for-kubernetes-an-introduction/</link><pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/single-sign-on-for-kubernetes-an-introduction/</guid><description>&lt;img src="https://joelspeed.co.uk/p/single-sign-on-for-kubernetes-an-introduction/SignInWith.jpg" alt="Featured image of post Single Sign-On for Kubernetes: An Introduction" />&lt;p>The New Stack published an article in which I explore Single Sign-On in
 Kuberentes. I discuss the benefits and drawbacks of Open ID Connect and possible
-solutions to some of its shortcomings.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+solutions to some of its shortcomings.&lt;/p>
+&lt;p>&lt;a class="link" href="https://thenewstack.io/kubernetes-single-sign-one-less-identity/" target="_blank" rel="noopener"
+>Read the full article&lt;/a>&lt;/p></description></item></channel></rss>

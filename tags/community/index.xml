@@ -1,30 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Community on Joel Speed</title>
-    <link>https://joelspeed.co.uk/tags/community/</link>
-    <description>Recent content in Community on Joel Speed</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>(c) Joel Speed 2018</copyright>
-    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://joelspeed.co.uk/tags/community/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>The power of the developer community</title>
-      <link>https://joelspeed.co.uk/posts/power-of-the-developer-community/</link>
-      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://joelspeed.co.uk/posts/power-of-the-developer-community/</guid>
-      <description>&lt;p&gt;Over the past year, I&amp;rsquo;ve been trying to contribute more to the developer
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>community on Joel Speed</title><link>https://joelspeed.co.uk/tags/community/</link><description>Recent content in community on Joel Speed</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://joelspeed.co.uk/tags/community/index.xml" rel="self" type="application/rss+xml"/><item><title>The power of the developer community</title><link>https://joelspeed.co.uk/p/the-power-of-the-developer-community/</link><pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate><guid>https://joelspeed.co.uk/p/the-power-of-the-developer-community/</guid><description>&lt;img src="https://joelspeed.co.uk/p/the-power-of-the-developer-community/community.png" alt="Featured image of post The power of the developer community" />&lt;p>Over the past year, I&amp;rsquo;ve been trying to contribute more to the developer
 community.
 In this post I explain why I&amp;rsquo;ve been so motivated to contribute and why I think
-it&amp;rsquo;s important that you should get involved too.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+it&amp;rsquo;s important that you should get involved too.&lt;/p>
+&lt;p>&lt;a class="link" href="https://medium.com/free-code-camp/the-power-of-the-developer-community-2b6e713fc9ae" target="_blank" rel="noopener"
+>Read the full article&lt;/a>&lt;/p></description></item></channel></rss>
